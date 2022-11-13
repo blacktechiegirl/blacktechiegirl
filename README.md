@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blacktechiegirl
-- I am a senior software engineer with solid experience in React, Nodejs, Mongoose, Express, AWS, Serverless and Devops.
+- I am a software engineer with solid experience in React, Nodejs, Mongoose, Express, AWS, and Serverless.
 
 
 <!---
